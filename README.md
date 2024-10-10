@@ -1,9 +1,13 @@
-# Hey there i'm Mohammed alaa👋
+## Hey there, I'm Mohammed Alaa 👋
 
-* 🔭 Currently working on my personal website and other exciting projects.
-* 🌱 I’m currently learning front-end development web in react and next.js and mobile in swift 
-* ✨ interested in creating designs systems and web/animations.
-* try my [todo list app](https://todo-app-mohdalaa.vercel.app)
+🔭 Currently working on my personal website and other exciting projects.  
+🌱 I’m currently learning front-end web development in React and Next.js, as well as mobile development in Swift.  
+✨ I'm passionate about design systems and creating web animations.
 
-📫 Get in touch : me@mohdalaa.com
+### Try my [To-Do List App](https://todo-app-mohdalaa.vercel.app)
 
+📫 Get in touch: [me@mohdalaa.com](mailto:me@mohdalaa.com)
+
+
+### GitHub Stats
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=m7md1alaa&hide=contribs,prs)

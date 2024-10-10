@@ -1,10 +1,9 @@
-# Hey there 👋
+# Hey there i'm Mohammed alaa👋
 
 * 🔭 Currently working on my personal website and other exciting projects.
-* 🌱 I’m currently learning advanced-level of React.js/next.js.
-* ⚡ Fun fact about me: 
-  1. 🎓 i'm not learning this for work or university, just because I enjoy it.
-  2. 📽️ I used to create motion graphics and work with After Effects for AKA (motion designer).
+* 🌱 I’m currently learning front-end development web in react and next.js and mobile in swift 
+* ✨ interested in creating system designs and web/animations.
+* try my [todo list app](https://todo-app-mohdalaa.vercel.app)
 
-📫 How to reach me : me@mohdalaa.com
+📫 Get in touch : me@mohdalaa.com
 

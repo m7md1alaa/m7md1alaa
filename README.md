@@ -1,7 +1,7 @@
 ## Hey there, I'm Mohammed Alaa 👋
 
 🔭 Currently working on my personal website and other exciting projects.  
-🌱 I’m currently learning Swift and IOS development
+🌱 I’m currently learning Swift and IOS development.
 ✨ I'm passionate about design systems and creating web animations.
 
 ### Try my [To-Do List App](https://todo-app-mohdalaa.vercel.app)

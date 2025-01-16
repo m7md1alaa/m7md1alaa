@@ -7,7 +7,7 @@ I like working on design systems, adding animations to websites, and making desi
 🌱 **What I'm Learning:**  
 I'm currently learning backend development and SQL.  
 
-### Try my [To-Do List App](https://todo-app-mohdalaa.vercel.app)
+### [My portfolio/blog](https://mohdalaa.com)
 
 📫 Get in touch: [me@mohdalaa.com](mailto:me@mohdalaa.com)
 

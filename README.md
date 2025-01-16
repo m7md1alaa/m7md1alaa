@@ -1,21 +1,23 @@
 ## Hey there, I'm Mohammed Alaa 👋
 
-🔭 Currently working on my personal website and other exciting projects.  
-✨ **What I Enjoy:**  
-I like working on design systems, adding animations to websites, and making designs look clean and appealing.  
+### **✨What I Enjoy:**  
+I mainly focus on front-end development, working with React and React Native to build seamless and engaging user experiences for both web and mobile. I enjoy creating clean designs, smooth animations, and ensuring that websites and apps are intuitive and accessible to everyone.
 
-🌱 **What I'm Learning:**  
-I'm currently learning backend development and SQL.  
+### **🪴What I'm Learning:**  
+Right now, I’m expanding my knowledge on integrating back-end technologies learning SQL and more in servers integrating AWS with front-end tools.
 
-💤 **Fun fact**
-: I sometimes dream in code, and yes, the erros follow me there too!
+### **User Experience, Scalability & Accessibility:**  
+I’m focused on building solutions that not only provide a great user experience but also scale well with businesses. Additionally, I prioritize localizing websites and mobile apps to ensure accessibility for users worldwide—because let’s be honest, no one really enjoys working on localization, but someone has to do it! 😄
 
-### check my [Portfolio/blog](https://mohdalaa.com)
+### **💤Fun Fact:**  
+I sometimes literally dream in my lines of code... and yes, the errors follow me there too!
 
-📫 Get in touch: [me@mohdalaa.com](mailto:me@mohdalaa.com)
+### Check out my [Portfolio/Blog](https://mohdalaa.com)
 
- <h2 align="left">I code with</h2>
- 
+📫 **Get in touch:** [me@mohdalaa.com](mailto:me@mohdalaa.com)
+
+### I code with:
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -27,5 +29,5 @@ I'm currently learning backend development and SQL.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>

@@ -6,8 +6,8 @@ I mainly focus on front-end development, working with React and React Native to 
 ### **🪴What I'm Learning:**  
 Right now, I’m expanding my knowledge on integrating back-end technologies learning SQL and more in servers integrating AWS with front-end tools.
 
-### **User Experience, Scalability & Accessibility:**  
-I’m focused on building solutions that not only provide a great user experience but also scale well with businesses. Additionally, I prioritize localizing websites and mobile apps to ensure accessibility for users worldwide—because let’s be honest, no one really enjoys working on localization, but someone has to do it! 😄
+### **User Experience:**  
+I’m focused on building a great user experience. Additionally, I prioritize localizing apps to ensure accessibility for users —because let’s be honest, no one really enjoys working on localization, but someone has to do it! 😄
 
 ### **💤Fun Fact:**  
 I sometimes literally dream in my lines of code... and yes, the errors follow me there too!

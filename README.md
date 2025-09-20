@@ -2,11 +2,11 @@
 Software engineer who enjoys building things that actually work.
 Obsessed with architecture
 No matter the stack I care about making software that feels good to use.
-I also mess with localization and accessibility ... someone’s gotta do it.
+I also mess with localization and accessibility ... cuz someone’s gotta do it.
 
 ### Check out my [Portfolio/Blog](https://mohdalaa.com)
 
-📫 **Get in touch:** [m7md1alaa15@outlook.com](mailto:m7md1alaa15@outlook.com)
+📫 **Get in touch:** [m7md1alaa15@outlook.com](mailto:me@mohdalaa.com)
 
 ### I code with:
 

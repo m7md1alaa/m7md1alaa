@@ -6,7 +6,7 @@ I also mess with localization and accessibility ... cuz someone’s gotta do it.
 
 ### Check out my [Portfolio/Blog](https://mohdalaa.com)
 
-📫 **Get in touch:** [m7md1alaa15@outlook.com](mailto:me@mohdalaa.com)
+📫 **Get in touch:** [me@mohdalaa.com](mailto:me@mohdalaa.com)
 
 ### I code with:
 
